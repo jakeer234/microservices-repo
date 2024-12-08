@@ -6,7 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/your-org/microservices-repo.git'
+    repoURL: 'https://github.com/jakeer234/microservices-repo.git'
+
     targetRevision: HEAD
     path: 'nginx-app'
   destination:
